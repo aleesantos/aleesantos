@@ -1,4 +1,2 @@
-Hi! 
-I am Alessandro dos Santos.
-
-●Currently, I am studying JavaScript, HTML, and CSS
+17 yers old
+Studying C#, and sometimes js.
